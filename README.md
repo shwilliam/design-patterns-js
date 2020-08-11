@@ -1,8 +1,11 @@
-# Design Patterns in JavaScript
+# Design Patterns in JS
+
+> JavaScript variations of popular software design patterns
 
 ## Patterns
 
 - Behavioral
+  - Command
   - Observer
   - Strategy
 - Creational
