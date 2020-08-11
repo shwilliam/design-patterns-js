@@ -6,7 +6,8 @@
   - Observer
   - Strategy
 - Creational
-  - Singleton
+  - Module
+  - Revealing module
   - Factory
 - Structural
   - Decorator
