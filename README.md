@@ -2,7 +2,14 @@
 
 ## Patterns
 
-- Strategy
+- Behavioral
+  - Observer
+  - Strategy
+- Creational
+  - Singleton
+  - Factory
+- Structural
+  - Decorator
 
 ## References
 

@@ -40,9 +40,6 @@ class StrategyManager {
 const stratA = new StrategyA()
 const stratB = new StrategyB()
 const stratManager = new StrategyManager({strategy: stratA})
-
 stratManager.doThing() // a
-
 stratManager.strategy = stratB
-
 stratManager.doThing() // b
