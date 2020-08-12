@@ -14,7 +14,9 @@
   - Revealing module
   - Factory
 - Structural
+  - Adapter
   - Decorator
+  - Facade
 
 ## References
 
