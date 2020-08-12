@@ -9,6 +9,7 @@
   - Iterator
   - Observer
   - Strategy
+  - Template method
 - Creational
   - Module
   - Revealing module
