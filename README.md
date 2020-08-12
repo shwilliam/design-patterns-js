@@ -6,6 +6,7 @@
 
 - Behavioral
   - Command
+  - Iterator
   - Observer
   - Strategy
 - Creational
