@@ -19,6 +19,7 @@
   - Adapter
   - Decorator
   - Facade
+  - Proxy
 
 ## References
 
