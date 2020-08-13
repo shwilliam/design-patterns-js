@@ -8,6 +8,7 @@
   - Command
   - Iterator
   - Observer
+  - State
   - Strategy
   - Template method
 - Creational
