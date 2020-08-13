@@ -5,21 +5,21 @@
 ## Overview
 
 - [Creational](#creational-patterns)
-  - [Factory](#factory)
-  - [Module](#module)
-  - [Revealing module](#revealing-module)
+  - Factory
+  - Module
+  - Revealing module
 - [Structural](#structural-patterns)
-  - [Adapter](#adapter)
-  - [Decorator](#decorator)
-  - [Facade](#facade)
-  - [Proxy](#proxy)
+  - Adapter
+  - Decorator
+  - Facade
+  - Proxy
 - [Behavioral](#behavioral-patterns)
-  - [Command](#command)
-  - [Iterator](#iterator)
-  - [Observer](#observer)
-  - [State](#state)
-  - [Strategy](#strategy)
-  - [Template method](#template-method)
+  - Command
+  - Iterator
+  - Observer
+  - State
+  - Strategy
+  - Template method
 
 ## Creational Patterns
 
@@ -421,3 +421,15 @@ mySandwich.prepare()
 - [Composing Software](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) by Eric Elliott
 - [JavaScript Design Paterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 - [JavaScript Design Patterns for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) by Soham Kamani
+
+## Contributing
+
+This project is open to and encourages contributions! Feel free to discuss any
+bug fixes/features in the [issues](https://github.com/shwilliam/patterns-in-js/issues).
+If you wish to work on this project:
+
+1. Fork [this project](https://github.com/shwilliam/js-design-patterns)
+2. Create a branch (`git checkout -b new-branch`)
+3. Commit your changes (`git commit -am 'add new feature'`)
+4. Push to the branch (`git push origin new-branch`)
+5. [Submit a pull request!](https://github.com/shwilliam/patterns-in-js/pull/new/master)
