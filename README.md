@@ -425,8 +425,8 @@ mySandwich.prepare()
 ## Contributing
 
 This project is open to and encourages contributions! Feel free to discuss any
-bug fixes/features in the [issues](https://github.com/shwilliam/design-patterns-js/issues).
-If you wish to work on this project:
+changes/additions in the [issues](https://github.com/shwilliam/design-patterns-js/issues).
+If you wish to work on this:
 
 1. Fork [this project](https://github.com/shwilliam/design-patterns-js)
 2. Create a branch (`git checkout -b new-branch`)
