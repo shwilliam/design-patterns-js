@@ -1,6 +1,6 @@
 /*
  * Command Pattern
- * ================
+ * ===============
  *
  * Encapsulate requests as objects enabling parameterizing clients with different
  * requests, queueing or logging reqeusts, and supporting undoable operations

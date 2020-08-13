@@ -1,6 +1,6 @@
 /*
  * Revealing module
- * =========
+ * ================
  */
 
 const revealingModule = (() => {

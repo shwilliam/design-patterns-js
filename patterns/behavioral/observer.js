@@ -61,6 +61,8 @@ class Observer {
 
 const subject = new Subject()
 const observer = new Observer()
+
 observer.update = ctx => console.log('update: ', ctx)
 subject.addObserver(observer)
+
 subject.notify('boop')

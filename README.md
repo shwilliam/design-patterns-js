@@ -2,7 +2,7 @@
 
 > JavaScript variations of popular software design patterns
 
-## Patterns
+## Contents
 
 - Behavioral
   - Command
@@ -12,9 +12,9 @@
   - Strategy
   - Template method
 - Creational
+  - Factory
   - Module
   - Revealing module
-  - Factory
 - Structural
   - Adapter
   - Decorator
